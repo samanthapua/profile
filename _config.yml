@@ -1,9 +1,9 @@
 title: Samantha Pua
 logo: "/images/dp.jpeg?raw=true" # your photo (or logo) here
 description: > 
- | Business Intelligence | Data Analytics | Data Science |
+ | Business Intelligence | Data Analytics | Data Science |<a href="https://www.linkedin.com/in/puaxuanyun/"> LinkedIn |</a> 
   <br>
-  <a href="https://www.linkedin.com/in/puaxuanyun/"> | LinkedIn |</a> 
+  
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
