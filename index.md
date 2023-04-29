@@ -6,7 +6,7 @@ Finding the correlation between google search of keywords versus prices. Making 
 
 <br>
 <img src="https://github.com/samanthapua/google_search/blob/master/btcprice_search_trend.png?raw=true" width="400" height="200" />
-<img src="https://github.com/samanthapua/google_search/blob/master/bitcoin_search_map.png?raw=true" width="500" height="200" />
+<img src="https://github.com/samanthapua/google_search/blob/master/bitcoin_search_map.png?raw=true" width="500" height="300" />
 
 
 
