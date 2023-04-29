@@ -1,34 +1,15 @@
-## Profile
+## Projects
 
----
+### Data Exploratory 
+###### [Bitcoin VS Google Search Index](https://github.com/samanthapua/google_search)
+Finding the correlation between google search of keywords versus prices. Making use of the google trend API, pytrends that provides a scaled number of search interest over a period of time. Geographical map to screen the countries that have the highest search interest of 'Bitcoin' or 'BTC'
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+<br>
+<img src="https://github.com/samanthapua/google_search/blob/master/btcprice_search_trend.png?raw=true" width="400" height="200" />
+<img src="https://github.com/samanthapua/google_search/blob/master/bitcoin_search_map.png?raw=true" width="400" height="200" />
 
 
 
 ---
 
+---
