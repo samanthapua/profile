@@ -20,10 +20,9 @@ Finding the correlation between google search of keywords versus prices. Making 
 
 ---
 
-### Just for fun ::smile::
-#### 1. Turtle Game
-Guess the winning turtle game ::turtle::
-![](https://github.com/samanthapua/turtle_race_game/blob/master/turtle_game.gif)
+### Just for fun :smile:
+#### 1. [Guess the winning turtle game :turtle:](https://github.com/samanthapua/turtle_race_game)
+<img src="https://github.com/samanthapua/turtle_race_game/blob/master/turtle_game.gif" width="200" height="200" />
 
 
 
