@@ -1,11 +1,12 @@
 ## Projects
 ---
 ### Machine Learning
-#### Linear regression
+#### 1. Linear regression
 ###### [Linear Regression on](https://github.com/samanthapua/)
 Identify how the independent variable influences the dependent variable. Try to predict stock prices using technical indicators.
 
 ### Data Exploratory 
+#### 1. Data visualization
 ###### [Bitcoin VS Google Search Index](https://github.com/samanthapua/google_search)
 Finding the correlation between google search of keywords versus prices. Making use of the google trend API, PyTrends that provides a scaled number of search interest over a period of time for any keyword. Using geographical map to screen the countries that have the highest search interest of 'Bitcoin' or 'BTC'.
 
