@@ -2,8 +2,8 @@
 ---
 ### Machine Learning
 #### 1. Linear regression
-###### [Linear Regression on](https://github.com/samanthapua/)
-Identify how the independent variable influences the dependent variable. Try to predict stock prices using technical indicators.
+###### [Predict Stock Prices Using Linear Regression](https://github.com/samanthapua/ml_linear_regression)
+Trying to predict stock prices using technical indicators i.e. Exponential Moving Average (EMA), Relative Strength Index (RSI) etc through linear regression models. Linear regression models identify how the independent variable influences the dependent variable.
 
 ### Data Exploratory 
 #### 1. Data visualization
