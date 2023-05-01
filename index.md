@@ -7,6 +7,8 @@
 #### [Predict Stock Prices Using Linear Regression](https://github.com/samanthapua/ml_linear_regression)
 Trying to predict stock prices using technical indicators i.e. Exponential Moving Average (EMA), Relative Strength Index (RSI) etc through linear regression models. Linear regression models identify how the independent variable influences the dependent variable.
 
+<img src="https://github.com/samanthapua/ml_linear_regression/blob/master/googl_predict.png?raw=true" width="400" height="200"/>
+
 ---
 
 ### Data Exploratory 
