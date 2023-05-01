@@ -1,9 +1,13 @@
 ## Projects
+
 ---
+
 ### Machine Learning
 #### 1. Linear regression
 ###### [Predict Stock Prices Using Linear Regression](https://github.com/samanthapua/ml_linear_regression)
 Trying to predict stock prices using technical indicators i.e. Exponential Moving Average (EMA), Relative Strength Index (RSI) etc through linear regression models. Linear regression models identify how the independent variable influences the dependent variable.
+
+---
 
 ### Data Exploratory 
 #### 1. Data visualization
@@ -14,8 +18,13 @@ Finding the correlation between google search of keywords versus prices. Making 
 <img src="https://github.com/samanthapua/google_search/blob/master/btcprice_search_trend.png?raw=true" width="400" height="200" />
 <img src="https://github.com/samanthapua/google_search/blob/master/bitcoin_search_map.png?raw=true" width="500" height="300" />
 
-
-
-
-
 ---
+
+### Just for fun ::smile::
+#### 1. Turtle Game
+Guess the winning turtle game ::turtle::
+![](https://github.com/samanthapua/turtle_race_game/blob/master/turtle_game.gif)
+
+
+
+
