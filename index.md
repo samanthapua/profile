@@ -20,7 +20,8 @@ Finding the correlation between google search of keywords versus prices. Making 
 
 #### 2. Real Estate
 
-
+<div id="vizContainer"></div>
+<script src="https://github.com/samanthapua/profile/app.js"></script>
 
 #### 3. E-commerce
 
